@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da29a5e1-4e43-4d1e-aff4-11eee3e87950" name="Changes" comment="now its works&#10;not in git is one more file - application.properties (for name, token and port)">
-      <change afterPath="$PROJECT_DIR$/common-rabbitmq/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common-rabbitmq/src/main/java/ru/xenozar/model/RabbitQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dispatcher/src/main/java/ru/xenozar/controller/UpdateController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dispatcher/src/main/java/ru/xenozar/service/AnswerConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dispatcher/src/main/java/ru/xenozar/service/UpdateProducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dispatcher/src/main/java/ru/xenozar/service/impl/UpdateProducerImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dispatcher/src/main/java/ru/xenozar/utils/MessageUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dispatcher/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dispatcher/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dispatcher/src/main/java/ru/xenozar/controller/TelegramBot.java" beforeDir="false" afterPath="$PROJECT_DIR$/dispatcher/src/main/java/ru/xenozar/controller/TelegramBot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="da29a5e1-4e43-4d1e-aff4-11eee3e87950" name="Changes" comment="the second lesson changes&#10;https://www.youtube.com/watch?v=150R89VmJgc&amp;list=PLV_4DSIw2vvI3_a6L_z5AlNaIdFNqQlW2&amp;index=4" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -114,7 +101,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716135121243</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="the second lesson changes&#10;https://www.youtube.com/watch?v=150R89VmJgc&amp;list=PLV_4DSIw2vvI3_a6L_z5AlNaIdFNqQlW2&amp;index=4">
+      <option name="closed" value="true" />
+      <created>1716203416579</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1716203416579</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -131,7 +126,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit&#10;a small telegram bot for fun" />
     <MESSAGE value="now its works&#10;not in git is one more file - application.properties (for name, token and port)" />
-    <option name="LAST_COMMIT_MESSAGE" value="now its works&#10;not in git is one more file - application.properties (for name, token and port)" />
+    <MESSAGE value="the second lesson changes&#10;https://www.youtube.com/watch?v=150R89VmJgc&amp;list=PLV_4DSIw2vvI3_a6L_z5AlNaIdFNqQlW2&amp;index=4" />
+    <option name="LAST_COMMIT_MESSAGE" value="the second lesson changes&#10;https://www.youtube.com/watch?v=150R89VmJgc&amp;list=PLV_4DSIw2vvI3_a6L_z5AlNaIdFNqQlW2&amp;index=4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
