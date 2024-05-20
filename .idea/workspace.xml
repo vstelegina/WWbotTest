@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da29a5e1-4e43-4d1e-aff4-11eee3e87950" name="Changes" comment="first commit&#10;a small telegram bot for fun">
+    <list default="true" id="da29a5e1-4e43-4d1e-aff4-11eee3e87950" name="Changes" comment="now its works&#10;not in git is one more file - application.properties (for name, token and port)">
+      <change afterPath="$PROJECT_DIR$/common-rabbitmq/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-rabbitmq/src/main/java/ru/xenozar/model/RabbitQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dispatcher/src/main/java/ru/xenozar/controller/UpdateController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dispatcher/src/main/java/ru/xenozar/service/AnswerConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dispatcher/src/main/java/ru/xenozar/service/UpdateProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dispatcher/src/main/java/ru/xenozar/service/impl/UpdateProducerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dispatcher/src/main/java/ru/xenozar/utils/MessageUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dispatcher/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dispatcher/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dispatcher/src/main/java/ru/xenozar/controller/TelegramBot.java" beforeDir="false" afterPath="$PROJECT_DIR$/dispatcher/src/main/java/ru/xenozar/controller/TelegramBot.java" afterDir="false" />
@@ -18,6 +26,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -25,21 +34,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "vstelegina"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;vstelegina&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/vstelegina/WWbotTest.git",
-    "accountId": "5ccaa517-01d4-46bc-bd25-0ea0214fbda9"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/vstelegina/WWbotTest.git&quot;,
+    &quot;accountId&quot;: &quot;5ccaa517-01d4-46bc-bd25-0ea0214fbda9&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2ggYuc8U2GQngtP6biTSCTfcVea" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -56,7 +65,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "H:/Java/Lessons/WWbotTest/dispatcher/src/main/java/ru/xenozar/Main.java",
+    "onboarding.tips.debug.path": "H:/Java/Lessons/WWbotTest/common-rabbitmq/src/main/java/ru/xenozar/Main.java",
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
@@ -97,7 +106,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716132600164</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="now its works&#10;not in git is one more file - application.properties (for name, token and port)">
+      <option name="closed" value="true" />
+      <created>1716135121243</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1716135121243</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -113,7 +130,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit&#10;a small telegram bot for fun" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit&#10;a small telegram bot for fun" />
+    <MESSAGE value="now its works&#10;not in git is one more file - application.properties (for name, token and port)" />
+    <option name="LAST_COMMIT_MESSAGE" value="now its works&#10;not in git is one more file - application.properties (for name, token and port)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
