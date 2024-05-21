@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da29a5e1-4e43-4d1e-aff4-11eee3e87950" name="Changes" comment="the second lesson changes&#10;https://www.youtube.com/watch?v=150R89VmJgc&amp;list=PLV_4DSIw2vvI3_a6L_z5AlNaIdFNqQlW2&amp;index=4" />
+    <list default="true" id="da29a5e1-4e43-4d1e-aff4-11eee3e87950" name="Changes" comment="the second lesson changes&#10;https://www.youtube.com/watch?v=150R89VmJgc&amp;list=PLV_4DSIw2vvI3_a6L_z5AlNaIdFNqQlW2&amp;index=4">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +35,9 @@
     &quot;accountId&quot;: &quot;5ccaa517-01d4-46bc-bd25-0ea0214fbda9&quot;
   }
 }</component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -42,20 +47,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.DispatcherApplication.executor": "Debug",
-    "Maven.WWbotTest [clean].executor": "Run",
-    "Maven.WWbotTest [org.apache.maven.plugins:maven-clean-plugin:3.1.0:clean].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "H:/Java/Lessons/WWbotTest/common-rabbitmq/src/main/java/ru/xenozar/Main.java",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.DispatcherApplication.executor&quot;: &quot;Debug&quot;,
+    &quot;Maven.WWbotTest [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.WWbotTest [org.apache.maven.plugins:maven-clean-plugin:3.1.0:clean].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;H:/Java/Lessons/WWbotTest/common-rabbitmq/src/main/java/ru/xenozar/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="DispatcherApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.xenozar.DispatcherApplication" />
@@ -109,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716203416579</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="the second lesson changes&#10;https://www.youtube.com/watch?v=150R89VmJgc&amp;list=PLV_4DSIw2vvI3_a6L_z5AlNaIdFNqQlW2&amp;index=4">
+      <option name="closed" value="true" />
+      <created>1716203477210</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1716203477210</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
