@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da29a5e1-4e43-4d1e-aff4-11eee3e87950" name="Changes" comment="the second lesson changes&#10;https://www.youtube.com/watch?v=150R89VmJgc&amp;list=PLV_4DSIw2vvI3_a6L_z5AlNaIdFNqQlW2&amp;index=4">
+    <list default="true" id="da29a5e1-4e43-4d1e-aff4-11eee3e87950" name="Changes" comment="nothing is change, today i'm learn about Docker">
+      <change afterPath="$PROJECT_DIR$/dispatcher/src/main/java/ru/xenozar/configuration/RabbitConfiguration.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dispatcher/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dispatcher/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dispatcher/src/main/java/ru/xenozar/service/impl/UpdateProducerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/dispatcher/src/main/java/ru/xenozar/service/impl/UpdateProducerImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,12 +26,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;vstelegina&quot;
-  }
-}</component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "history": [
+    {
+      "searchQuery": "ilyaglaz",
+      "state": "OPEN",
+      "assignee": "vstelegina"
+    },
+    {
+      "searchQuery": "glazterix@gmail.com",
+      "state": "OPEN",
+      "assignee": "vstelegina"
+    }
+  ],
+  "lastFilter": {}
+}]]></component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/vstelegina/WWbotTest.git&quot;,
@@ -122,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716203477210</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="nothing is change, today i'm learn about Docker">
+      <option name="closed" value="true" />
+      <created>1716309850213</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1716309850213</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -140,7 +160,8 @@
     <MESSAGE value="first commit&#10;a small telegram bot for fun" />
     <MESSAGE value="now its works&#10;not in git is one more file - application.properties (for name, token and port)" />
     <MESSAGE value="the second lesson changes&#10;https://www.youtube.com/watch?v=150R89VmJgc&amp;list=PLV_4DSIw2vvI3_a6L_z5AlNaIdFNqQlW2&amp;index=4" />
-    <option name="LAST_COMMIT_MESSAGE" value="the second lesson changes&#10;https://www.youtube.com/watch?v=150R89VmJgc&amp;list=PLV_4DSIw2vvI3_a6L_z5AlNaIdFNqQlW2&amp;index=4" />
+    <MESSAGE value="nothing is change, today i'm learn about Docker" />
+    <option name="LAST_COMMIT_MESSAGE" value="nothing is change, today i'm learn about Docker" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
